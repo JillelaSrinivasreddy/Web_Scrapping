@@ -1,8 +1,8 @@
-🚀 **Web Scraping with Python – Extracting Product Data!** 🛍️📊 
+# **Web Scraping with Python – Extracting Product Data!**
 
 I recently worked on a **web scraping project** using **Python, BeautifulSoup, and Pandas** to extract product information from a sample webpage and save it into a structured CSV file. 📄🔍 
 
-**What This Project Does:** 
+#**What This Project Does:** 
 ✅ Fetches webpage content using `requests` 
 ✅ Parses and extracts product names, prices, and stock availability with `BeautifulSoup` 
 ✅ Cleans and structures the data 
